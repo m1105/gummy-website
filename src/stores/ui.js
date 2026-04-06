@@ -3,7 +3,7 @@ import { defineStore } from 'pinia'
 export const useUiStore = defineStore('ui', {
   state: () => ({
     currentSection: 'hero',
-    lineUrl: 'https://line.me/ti/g/PLACEHOLDER'
+    lineUrl: 'https://line.me/ti/g2/VTcRIKs5i7po5qss96upqwzBo6V4hDGo-1-LRg'
   }),
   actions: {
     setSection(section) {
