@@ -1,0 +1,26 @@
+:root {
+  --bg: #000000;
+  --accent: #00FF00;
+  --accent-dim: rgba(0, 255, 0, 0.08);
+  --accent-half: rgba(0, 255, 0, 0.5);
+  --text-primary: #FFFFFF;
+  --text-secondary: #666666;
+  --text-disclaimer: #333333;
+  --card-bg: #0D0D0D;
+  --card-border: #1A1A1A;
+  --divider: rgba(0, 255, 0, 0.09);
+
+  --font-heading: 'Funnel Sans', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --section-padding: 80px;
+  --section-gap: 48px;
+  --card-gap: 20px;
+  --card-padding: 32px;
+  --stat-padding: 28px;
+
+  --radius-card: 12px;
+  --radius-pill: 9999px;
+  --max-width: 1280px;
+}
