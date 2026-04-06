@@ -14,4 +14,4 @@ Allow: /
 User-agent: anthropic-ai
 Allow: /
 
-Sitemap: https://YOURDOMAIN.github.io/gummy-website/sitemap.xml
+Sitemap: https://gummy.lc1llm.xyz/sitemap.xml
